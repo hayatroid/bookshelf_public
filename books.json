@@ -1,5 +1,278 @@
 {
-  "💤": [],
-  "🚧": [],
-  "✅": []
+  "💤": [
+    {
+      "isbn": 4774142042,
+      "title": "Webを支える技術",
+      "thumbnail": "http://books.google.com/books/content?id=c4bnSAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4274224473,
+      "title": "マスタリングTCP/IP　入門編（第6版）",
+      "thumbnail": "http://books.google.com/books/content?id=01LADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "isbn": 4814400896,
+      "title": "マスタリングAPIアーキテクチャ",
+      "thumbnail": "http://books.google.com/books/content?id=sJvk0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4798157821,
+      "title": "達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ",
+      "thumbnail": "http://books.google.com/books/content?id=FwpxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "isbn": 4297145464,
+      "title": "[作って学ぶ]ブラウザのしくみ──HTTP、HTML、CSS、JavaScriptの裏側",
+      "thumbnail": "http://books.google.com/books/content?id=wqrl0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4814400393,
+      "title": "RustとWebAssemblyによるゲーム開発",
+      "thumbnail": "http://books.google.com/books/content?id=TG_9zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4798182788,
+      "title": "リスクから学ぶ Kubernetesコンテナセキュリティ コンテナ開発者がおさえておくべき基礎知識",
+      "thumbnail": "http://books.google.com/books/content?id=ggsnEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4873119057,
+      "title": "実践bashによるサイバーセキュリティ対策",
+      "thumbnail": "http://books.google.com/books/content?id=wal_zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4297145774,
+      "title": "JavaScriptプログラマーのためのTypeScript厳選ガイド 〜JavaScriptプロジェクトを型安全で堅牢にする書き方を理解する",
+      "thumbnail": "http://books.google.com/books/content?id=Esjl0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4798179809,
+      "title": "なっとく！関数型プログラミング",
+      "thumbnail": "http://books.google.com/books/content?id=lgzVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4274226212,
+      "title": "量子コンピューティング ―基本アルゴリズムから量子機械学習まで―",
+      "thumbnail": "http://books.google.com/books/content?id=UTAHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "isbn": 4873119197,
+      "title": "動かして学ぶ量子コンピュータプログラミング",
+      "thumbnail": "http://books.google.com/books/content?id=dOTAzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4274067106,
+      "title": "Rによるやさしい統計学",
+      "thumbnail": "http://books.google.com/books/content?id=hiNNxqwuOQoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "isbn": 4320115511,
+      "title": "データ解析のための数理統計入門",
+      "thumbnail": "http://books.google.com/books/content?id=SN4a0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4788925575,
+      "title": "日本統計学会公式認定統計検定準1級公式問題集",
+      "thumbnail": "http://books.google.com/books/content?id=LYyizgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4780608526,
+      "title": "日本統計学会公式認定統計検定準1級対応統計学実践ワークブック",
+      "thumbnail": "http://books.google.com/books/content?id=kACTzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4065337631,
+      "title": "Pythonでスラスラわかるベイズ推論「超」入門",
+      "thumbnail": "http://books.google.com/books/content?id=TK0o0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4320125061,
+      "title": "統計的機械学習の数理100問 with R",
+      "thumbnail": "http://books.google.com/books/content?id=coWCzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4320096525,
+      "title": "データ駆動型ファイナンス",
+      "thumbnail": "http://books.google.com/books/content?id=4z0tzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4322135919,
+      "title": "東証公式ガイド精選例題でわかる株式取引ルール",
+      "thumbnail": "http://books.google.com/books/content?id=lxxkzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4534038941,
+      "title": "図解でわかるランダムウォーク&行動ファイナンス理論のすべて",
+      "thumbnail": "http://books.google.com/books/content?id=QsyJAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4300100225,
+      "title": "日商簿記2級みんなが欲しかった! やさしすぎる解き方の本第5版",
+      "thumbnail": "http://books.google.com/books/content?id=DmiczwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4300105189,
+      "title": "2023-2024年版みんなが欲しかった! FPの教科書2級・AFP",
+      "thumbnail": "http://books.google.com/books/content?id=5lnxzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4300105227,
+      "title": "2023-2024年版みんなが欲しかった! FPの問題集2級・AFP",
+      "thumbnail": "http://books.google.com/books/content?id=byjxzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4297143291,
+      "title": "VRoid Studioの表現を広げる 3Dアバターメイキング講座",
+      "thumbnail": "http://books.google.com/books/content?id=o0vK0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4798173290,
+      "title": "キャラクターイラストの引き出しを増やす ポーズと表情の演出テクニック",
+      "thumbnail": "http://books.google.com/books/content?id=BRCHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "isbn": 4798181390,
+      "title": "キャラクターイラストの引き出しを増やす ポーズと構図の演出テクニック",
+      "thumbnail": "http://books.google.com/books/content?id=FkT9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4815607168,
+      "title": "Paryiが全力で教える「髪」の描き方",
+      "thumbnail": "http://books.google.com/books/content?id=khM3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4839959641,
+      "title": "イラスト解体新書",
+      "thumbnail": "http://books.google.com/books/content?id=RQ6ztAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4839974527,
+      "title": "ダテ式おえかき塾 90日間で変わる画力向上講座",
+      "thumbnail": "http://books.google.com/books/content?id=NuR1zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4839978484,
+      "title": "イラスト光と色彩解体新書",
+      "thumbnail": "http://books.google.com/books/content?id=_eBGzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4839980772,
+      "title": "いいトコどり!人物パーツの描き方",
+      "thumbnail": "http://books.google.com/books/content?id=CfHYzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4800713269,
+      "title": "これ1冊でできる! ラズベリー・パイ Picoではじめる電子工作超入門",
+      "thumbnail": "http://books.google.com/books/content?id=Xkc60AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4866734205,
+      "title": "電子工作奇天烈ガイド",
+      "thumbnail": "http://books.google.com/books/content?id=2FLi0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4798186775,
+      "title": "増補改訂版 図解でわかる！理工系のためのよい文章の書き方 論文・レポートを自力で書けるようになる方法",
+      "thumbnail": "http://books.google.com/books/content?id=YgsnEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    }
+  ],
+  "🚧": [
+    {
+      "isbn": 4065301955,
+      "title": "ゼロから学ぶRust システムプログラミングの基礎から線形型システムまで",
+      "thumbnail": "http://books.google.com/books/content?id=9zl5zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4814400942,
+      "title": "Effective Rust",
+      "thumbnail": "http://books.google.com/books/content?id=qfHv0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4814400519,
+      "title": "詳解 Rustアトミック操作とロック",
+      "thumbnail": "http://books.google.com/books/content?id=tyw60AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4873114354,
+      "title": "並行コンピューティング技法",
+      "thumbnail": "http://books.google.com/books/content?id=ZbRrjAAM6n4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4873119596,
+      "title": "並行プログラミング入門",
+      "thumbnail": "http://books.google.com/books/content?id=EbqLzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4798153278,
+      "title": "Akka実践バイブル アクターモデルによる並行・分散システムの実現",
+      "thumbnail": "http://books.google.com/books/content?id=iZ1BDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "isbn": 4297140551,
+      "title": "[改訂新版]イラストでわかるDockerとKubernetes",
+      "thumbnail": "http://books.google.com/books/content?id=YJ1v0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4873119014,
+      "title": "Kubernetesで実践するクラウドネイティブDevOps",
+      "thumbnail": "http://books.google.com/books/content?id=OTtTzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4839941068,
+      "title": "プログラミングコンテストチャレンジブック [第2版]",
+      "thumbnail": "http://books.google.com/books/content?id=s40pvgbtOZ8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "isbn": 4839979499,
+      "title": "アルゴリズム実技検定公式テキスト[上級]~[エキスパート]編",
+      "thumbnail": "http://books.google.com/books/content?id=JQOozwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4873114055,
+      "title": "エレガントな問題解決",
+      "thumbnail": "http://books.google.com/books/content?id=Wjf5eYw9iHsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4627083416,
+      "title": "代数学入門",
+      "thumbnail": "http://books.google.com/books/content?id=AbZZ0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4065369819,
+      "title": "プログラミング〈新〉作法これからプログラムを書く人のために",
+      "thumbnail": "http://books.google.com/books/content?id=_IXT0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4814400584,
+      "title": "Rustの練習帳",
+      "thumbnail": "http://books.google.com/books/content?id=NIRc0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4873117127,
+      "title": "コンピュータシステムの理論と実装",
+      "thumbnail": "http://books.google.com/books/content?id=tTI5rgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4873117585,
+      "title": "ゼロから作るDeep Learning",
+      "thumbnail": "http://books.google.com/books/content?id=tbZQvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    }
+  ],
+  "✅": [
+    {
+      "isbn": 4839977504,
+      "title": "競技プログラミングの鉄則",
+      "thumbnail": "http://books.google.com/books/content?id=35BFzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4320125614,
+      "title": "計算理論の基礎 [原著第3版] 1.オートマトンと言語",
+      "thumbnail": "http://books.google.com/books/content?id=ThmrzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "isbn": 4797367547,
+      "title": "数学ガール／ガロア理論",
+      "thumbnail": "http://books.google.com/books/content?id=KkzfAwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    }
+  ]
 }
