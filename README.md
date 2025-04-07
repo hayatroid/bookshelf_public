@@ -1,15 +1,11 @@
-# bookshelf
+# bookshelf_public
 
-Edit [`isbns.json`](./isbns.json) to update this MD!
-
-GitHub Actions handles the following tasks
-
-1. `gen_books.py` converts `isbns.json` to `books.json`
-2. `gen_readme.py` converts `books.json` to `README.md`
+>[!NOTE]
+> This Markdown is auto-generated from [`isbns.json`](./isbns.json).\
+> Don't edit this file directly; update [`isbns.json`](./isbns.json) and commit/push your changes.
 
 > [!TIP]
 > Hover to see the book title.
-
 
 ## 💤 Unread
 
