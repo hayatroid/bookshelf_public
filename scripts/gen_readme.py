@@ -2,16 +2,12 @@ import json
 
 
 def gen_usage():
-    return '''Edit [`isbns.json`](./isbns.json) to update this MD!
-
-GitHub Actions handles the following tasks
-
-1. `gen_books.py` converts `isbns.json` to `books.json`
-2. `gen_readme.py` converts `books.json` to `README.md`
+    return '''>[!NOTE]
+> This Markdown is auto-generated from [`isbns.json`](./isbns.json).\\
+> Don't edit this file directly; update [`isbns.json`](./isbns.json) and commit/push your changes.
 
 > [!TIP]
-> Hover to see the book title.
-'''
+> Hover to see the book title.'''
 
 
 def gen_row(list):
@@ -34,7 +30,7 @@ def gen_table(books, cols=8):
 books = json.load(open('../books.json', 'r'))
 
 result = '\n\n'.join([
-    '# bookshelf',
+    '# bookshelf_public',
     gen_usage(),
 
     '## 💤 Unread',
